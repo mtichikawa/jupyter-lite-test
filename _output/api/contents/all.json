@@ -50,30 +50,6 @@
     },
     {
       "content": null,
-      "created": "2022-12-14T00:18:20.345860Z",
-      "format": null,
-      "last_modified": "2022-12-09T20:16:59.421163Z",
-      "mimetype": "text/plain",
-      "name": "requirements.txt",
-      "path": "requirements.txt",
-      "size": 96,
-      "type": "file",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-12-14T00:18:20.350222Z",
-      "format": null,
-      "last_modified": "2022-12-09T20:22:54.236599Z",
-      "mimetype": "text/plain",
-      "name": "runtime.txt",
-      "path": "runtime.txt",
-      "size": 4,
-      "type": "file",
-      "writable": true
-    },
-    {
-      "content": null,
       "created": "2022-12-14T00:18:19.205482Z",
       "format": null,
       "last_modified": "2022-12-03T01:26:18.902166Z",
@@ -253,9 +229,9 @@
       "writable": true
     }
   ],
-  "created": "2022-12-14T00:18:20.370943Z",
+  "created": "2022-12-14T16:34:23.421972Z",
   "format": "json",
-  "last_modified": "2022-12-14T00:18:20.370943Z",
+  "last_modified": "2022-12-14T16:34:23.421972Z",
   "mimetype": null,
   "name": "",
   "path": "",
